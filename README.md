@@ -19,13 +19,13 @@ This repository contains a C# project along with a test project to demonstrate t
 
 2. Restore the packages:
     ```bash
+    cd phoneApp
+    dotnet restore
+
+    cd phoneApp.Tests
     dotnet restore
     ```
 
-3. Build the project:
-    ```bash
-    dotnet build
-    ```
 
 ## Running the Program
 
