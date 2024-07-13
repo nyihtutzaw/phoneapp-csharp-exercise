@@ -22,8 +22,6 @@ This repository contains a C# project along with a test project to demonstrate t
     cd phoneApp
     dotnet restore
 
-    cd phoneApp.Tests
-    dotnet restore
     ```
 
 
