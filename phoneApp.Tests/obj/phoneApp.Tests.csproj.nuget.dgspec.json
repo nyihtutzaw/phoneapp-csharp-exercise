@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp.Tests/phoneApp.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp.Tests/phoneApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp.Tests/phoneApp.Tests.csproj",
+        "projectName": "phoneApp.Tests",
+        "projectPath": "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp.Tests/phoneApp.Tests.csproj",
+        "packagesPath": "/Users/nyihtutzaw/.nuget/packages/",
+        "outputPath": "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nyihtutzaw/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/phoneApp.csproj": {
+                "projectPath": "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/phoneApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/phoneApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/phoneApp.csproj",
+        "projectName": "phoneApp",
+        "projectPath": "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/phoneApp.csproj",
+        "packagesPath": "/Users/nyihtutzaw/.nuget/packages/",
+        "outputPath": "/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nyihtutzaw/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

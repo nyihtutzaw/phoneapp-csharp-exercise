@@ -1,0 +1,14 @@
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/bin/Debug/net8.0/sharp
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/bin/Debug/net8.0/sharp.deps.json
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/bin/Debug/net8.0/sharp.runtimeconfig.json
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/bin/Debug/net8.0/sharp.dll
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/bin/Debug/net8.0/sharp.pdb
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/obj/Debug/net8.0/sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/obj/Debug/net8.0/sharp.AssemblyInfoInputs.cache
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/obj/Debug/net8.0/sharp.AssemblyInfo.cs
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/obj/Debug/net8.0/sharp.csproj.CoreCompileInputs.cache
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/obj/Debug/net8.0/sharp.dll
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/obj/Debug/net8.0/refint/sharp.dll
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/obj/Debug/net8.0/sharp.pdb
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/obj/Debug/net8.0/sharp.genruntimeconfig.cache
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/sharp/obj/Debug/net8.0/ref/sharp.dll

@@ -1,0 +1,14 @@
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/bin/Debug/net8.0/phoneApp
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/bin/Debug/net8.0/phoneApp.deps.json
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/bin/Debug/net8.0/phoneApp.runtimeconfig.json
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/bin/Debug/net8.0/phoneApp.dll
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/bin/Debug/net8.0/phoneApp.pdb
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/Debug/net8.0/phoneApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/Debug/net8.0/phoneApp.AssemblyInfoInputs.cache
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/Debug/net8.0/phoneApp.AssemblyInfo.cs
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/Debug/net8.0/phoneApp.csproj.CoreCompileInputs.cache
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/Debug/net8.0/phoneApp.dll
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/Debug/net8.0/refint/phoneApp.dll
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/Debug/net8.0/phoneApp.pdb
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/Debug/net8.0/phoneApp.genruntimeconfig.cache
+/Users/nyihtutzaw/Desktop/exercise/phonePadApp/phoneApp/obj/Debug/net8.0/ref/phoneApp.dll
